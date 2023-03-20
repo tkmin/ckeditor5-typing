@@ -13,7 +13,7 @@
   "main": "src/index.ts",
   "dependencies": {
     "@ckeditor/ckeditor5-core": "^36.0.1",
-    "@ckeditor/ckeditor5-engine": "^36.0.1",
+    "@ckeditor/ckeditor5-engine": "git+https://github.com/tkmin/ckeditor5-engine.git",
     "@ckeditor/ckeditor5-utils": "^36.0.1",
     "lodash-es": "^4.17.15"
   },
